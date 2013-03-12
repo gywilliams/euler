@@ -114,7 +114,11 @@ while i < 100:
     num = list[i]
     i = i + 1
     sum = sum + num
+print str(sum)[0:9]
 
+<<<<<<< HEAD
 print sum
 #ten = str(sum)[0,9]
 #print ten
+=======
+>>>>>>> Update 13.py
