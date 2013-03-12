@@ -116,5 +116,5 @@ while i < 100:
     sum = sum + num
 
 print sum
-ten = str(sum)[0,9]
-print ten
+#ten = str(sum)[0,9]
+#print ten
